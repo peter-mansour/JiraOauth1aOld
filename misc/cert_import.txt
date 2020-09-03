@@ -1,0 +1,1 @@
+keytool -import -alias gbetools-qa-08292020 -file "C:\Users\mansop\Desktop\Jira\JIRA08212020\creds\cer\jira-qa-gbetools08292020.cer" -storepass changeit 

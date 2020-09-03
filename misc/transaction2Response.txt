@@ -1,0 +1,8 @@
+Welcome to JIRA
+You have already approved or denied this access request.
+
+Welcome to JIRA
+Xsrf token validation failed
+
+Access Approved
+You have successfully authorized 'jira-connect-test'. Your verification code is 'OQ0Vsp'. You will need to enter this exact text when prompted. You should write this value down before closing the browser window.
